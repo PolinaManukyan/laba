@@ -1,1 +1,2 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
+kiki.txt filter=lfs diff=lfs merge=lfs -text
